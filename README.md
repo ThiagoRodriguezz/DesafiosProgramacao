@@ -42,9 +42,9 @@ competitive-programming/
 
 | Plataforma | Resolvidos |
 |---|---|
-| 🐄 Beecrowd | 0 |
+| 🐄 Beecrowd | 2 |
 | 💡 LeetCode | 0 |
-| 🥇 OBI | 1 |
+| 🥇 OBI | 2 |
 
 ---
 
